@@ -20,7 +20,7 @@ Instead of salts, if you were to use a nonce (unique number for each hashed fiel
 
 Given the above, if this quiz data were actual class data, say for example your final exam, how would you store this dataset? Why?
 
-	I wouldn’t hash and salt this information because I personally don’t think its important enough. If I were to store it, I would just keep it in plaintext.
+	I wouldnt hash tis data because I don’t think its important enough. If I were to store it, I would just keep it in plaintext.
 
 What did you think about Task 2?
 
